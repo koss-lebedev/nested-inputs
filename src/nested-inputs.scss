@@ -1,0 +1,23 @@
+.nested-inputs {
+
+  .nested-inputs-root {
+    padding-left: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+
+  button {
+    margin-left: 3px;
+    width: 23px;
+    height: 23px;
+  }
+
+  input {
+    width: 170px;
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+}
