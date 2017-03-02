@@ -14,7 +14,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             this.settings = settings;
             this.emptyNode = { value: null };
 
-            this._addNode(this.wrapper.find('ul'), this.settings.values || [this.emptyNode]);
+            if (this.settings.values.length == 0) {
+                this.settings.values = [this.emptyNode];
+            }
+            this._addNode(this.wrapper.find('ul'), this.settings.values);
         }
 
         _createClass(NestedInputs, [{
