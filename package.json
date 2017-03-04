@@ -15,5 +15,8 @@
     "gulp-clean-css": "^3.0.2",
     "gulp-minify": "0.0.15",
     "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
   }
 }

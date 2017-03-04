@@ -1,0 +1,22 @@
+{
+  "name": "nested-inputs",
+  "description": "Edit tree-like nested input elements",
+  "main": "index.js",
+  "authors": [
+    "Constantine Lebedev <koss.lebedev@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tree",
+    "nested",
+    "input"
+  ],
+  "homepage": "https://github.com/koss-lebedev/nested-inputs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
