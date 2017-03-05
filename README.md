@@ -1,5 +1,9 @@
 # nested-inputs
 
+[![npm version](https://badge.fury.io/js/nested-inputs.svg)](https://badge.fury.io/js/nested-inputs)
+[![Bower version](https://badge.fury.io/bo/nested-inputs.svg)](https://badge.fury.io/bo/nested-inputs)
+
+
 This control allows you create structure of nested text entries,
 kind of like an editable tree. 
 
