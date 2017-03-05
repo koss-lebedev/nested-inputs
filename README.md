@@ -9,7 +9,16 @@ kind of like an editable tree.
 
 ## Installation
 
-TODO: add bower and npm
+Using Bower:
+
+    bower install nested-inputs
+
+Using NPM:
+
+    npm install nested-inputs
+
+Or simply copy `nested-inputs.js` and `nested-inputs.css` files from `dist` 
+folder to your project.
 
 ## Usage
 
