@@ -1,5 +1,6 @@
 # nested-inputs
 
+[![Code Climate](https://codeclimate.com/github/koss-lebedev/nested-inputs/badges/gpa.svg)](https://codeclimate.com/github/koss-lebedev/nested-inputs)
 [![npm version](https://badge.fury.io/js/nested-inputs.svg)](https://badge.fury.io/js/nested-inputs)
 [![Bower version](https://badge.fury.io/bo/nested-inputs.svg)](https://badge.fury.io/bo/nested-inputs)
 
